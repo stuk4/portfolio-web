@@ -13,7 +13,7 @@ This is my personal portfolio website that showcases my experience, skills and c
 Wait, wait, why is the code not here? For security reasons and preference, I will keep it private. In the following days, I will be publishing the functionalities of my site separately on my GitHub for those who want to use them on their sites, obviously with some kind of credit to me, hehe (Please give me credit by referencing my website https://www.bastianperez.com/).
 ## Functionalities
 - [TypeWrite Effect](https://github.com/stuk4/typewriter-effect)
-
+- [Animations](https://github.com/stuk4/animation-effect)
 ## Metrics:
 - [Mobile Optimization and snapshot](https://search.google.com/test/mobile-friendly/result?id=8MdiYuT8nzxoMaJ4q0Ip6A) to verify that the content of a SPA is displayed in the google indexer and the site is responsive
 - [PageSpeed Insights](https://pagespeed.web.dev/report?url=https%3A%2F%2Fwww.bastianperez.com%2F&form_factor=mobile) to check Performance, Accessibility, Best Practices, SEO (in my case because it is a SPA I do not know how reliable are these metrics hehe, in any case there they are)
